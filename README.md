@@ -42,4 +42,4 @@ NAME       TYPE           CLUSTER-IP       EXTERNAL-IP   PORT(S)        AGE
 balanced   LoadBalancer   10.108.217.196   127.0.0.1     80:31135/TCP   92s
 
 ```
-Your deployment is now available at <EXTERNAL-IP>:80
+Your deployment is now available at "<EXTERNAL-IP>:80"
